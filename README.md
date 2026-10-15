@@ -3,7 +3,7 @@ Version - 1.0
 
 This project is a simulator for making it easier to play Musical Chairs. 
 
-There is a chance that the person who is playing-pausing the may may not operate fairly and intentionally make someone loose. 
+There is a chance that the person who is playing-pausing the music may may not operate fairly and intentionally make someone loose. 
 
 This project tends to remove such unfairness of the Musical Chairs game by code automation using Python.
 
